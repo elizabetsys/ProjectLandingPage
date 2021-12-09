@@ -2,9 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Optima, sans-serif;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    
 }
 header {
     display: flex;
@@ -99,6 +97,7 @@ button, .one {
 
 .text {
     text-align: center;    
+    font-size: 12px;
 }
 
 .Loki {
@@ -124,11 +123,11 @@ button, .one {
     max-width: 830px;
     font-style: italic;
     font-weight: lighter;
+    
 }
 
 .Carl {
   font-weight: bold;
-  text-align: end;
   margin: 15px;
 }
 
